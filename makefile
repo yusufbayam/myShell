@@ -1,4 +1,4 @@
-myHell: myShell.o
+myShell: myShell.o
 	g++ myShell.o -o myHell
 
 MyShell.o: myShell.cpp
