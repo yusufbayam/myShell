@@ -1,3 +1,11 @@
+How to run:
+1. Go to directory of myShell.cpp file. This directory should also include the makefile.
+2. Run make command from terminal.
+3. Run ./myShell command
+
+
+Supported commands:
+
 ● listdir
 ○ This command will print out the contents of the current directory, same as the “ls”
 command in bash.
